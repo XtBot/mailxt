@@ -5,11 +5,11 @@ You can develop the bot and add keyboard & etc.
 
 Dev Info:
 
-Email: Prsahrn@gmail.com
+Email: anjoman.9aj@gmail.com
 
-Telegram: [Parsa](http://telegram.me/prsahrn)
+channel: [Xt_Robo](http://telegram.me/xt_robo)
 
-Powered By: [iTeam](http://telegram.me/iteam_en)
+Powered By: [XtBot](http://telegram.me/shahin_xtbot)
 
 ## Installation
 **Ubuntu:**
@@ -24,8 +24,8 @@ sudo pip install temp-mail
 ```
 * Then we clone Repo and run bot.py
 ```
-git clone https://github.com/iTeam-co/Email-Bot.git
-cd Email-Bot
+git clone https://github.com/XtBot/EmailXT.git
+cd EmailXT
 ```
 *Edit bot.py file and add your Bot Token to line 5 then:*
 
